@@ -54,9 +54,6 @@
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <!-- JavaScritp -->
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
       </a>
-      <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <!-- ReactNative -->
-        <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> 
-      </a>
     <h5 align="left">Data-Base:</h5>
       <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><!-- FireBase -->
         <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
