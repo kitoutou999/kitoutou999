@@ -32,9 +32,6 @@
      
 <hr>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kitoutou999&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="kitoutou999" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kitoutou999&&theme=tokyonight" alt="kitoutou999" /></p>
-
 
 
 
