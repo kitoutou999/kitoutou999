@@ -32,6 +32,7 @@
      
 <hr>
 
-
-
-
+<h3 align="center">My GitHub Contributions</h3>
+<div align="center">
+  <img src="https://ghchart.rshah.org/0e75b6/kitoutou999" alt="kitoutou999's Github chart" />
+</div>
