@@ -10,4 +10,6 @@ Interested in AI, multi-agent systems, and web development.
 
 ## GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=kitoutou999&show_icons=true&hide_border=true&theme=dark)
+![Stats](https://streak-stats.demolab.com?user=kitoutou999&theme=dark&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kitoutou999&layout=compact&hide_border=true&theme=dark)
